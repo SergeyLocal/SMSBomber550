@@ -39,7 +39,7 @@
 
  pkg install python git
 
- git clone https://github.com/Ivan-Hacker-700/SMSBomber300
+ git clone https://github.com/SergeyLocal/SMSBomber550
  
 
  ls
@@ -65,7 +65,7 @@
 ## УСТАНОВКА НА LINUX
  ```sh
 
- git clone https://github.com/Ivan-Hacker-700/SMSBomber300
+ git clone https://github.com/SergeyLocal/SMSBomber550
 
  ls
 
