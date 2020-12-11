@@ -44,7 +44,7 @@
 
  ls
 
- cd SMSBomber300
+ cd SMSBomber550
 
  ls
 
