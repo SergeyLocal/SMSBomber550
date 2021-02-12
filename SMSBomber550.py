@@ -1,5 +1,5 @@
 
-#   Version 10.1
+#   Version 10.2
 import requests, random, datetime, sys, time, argparse, os , colorama ,pickle
 from colorama import Fore, Back, Style
 from colorama import init
@@ -44,9 +44,7 @@ message8 = """    \n         Разработчики:
                   \n Создатель идеи/Разработчик:
                   \n \033[94mСергей Рюмкин\033[0m - https://vk.com/sskizzi
                   \n                                      
-                  \n \033[33mНад визуальными эффектами\Анимации работали:\033[0m 
-                  \n \033[94mДима Чернышов\033[0m - https://vk.com/psih.odinochka  
-                  \n                                      
+                                                    
                                                                       """
 
 
