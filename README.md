@@ -1,5 +1,5 @@
-<h1 align="center"> 🆂🅼🆂-🅱🅾🅼🅱🅴🆁-300 🅵🆁🅴🅴 V. 10.1 </h1>
-<h1 align="center">Добро пожаловать в Bomber300 👋</h1>
+<h1 align="center"> 🆂🅼🆂-🅱🅾🅼🅱🅴🆁-550 🅵🆁🅴🅴 V. 10.1 </h1>
+<h1 align="center">Добро пожаловать в Bomber550 👋</h1>
 <p align="center">
     Открытый и бесплатный СМС бомбер
     <br /><br />
