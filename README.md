@@ -50,13 +50,13 @@
 
  pip install -r requirements.txt
 
- python SMSBomber300.py
+ python SMSBomber550.py
 
 [Последующие запуски]
 
- cd SMSBomber300
+ cd SMSBomber550
 
- python SMSBomber300.py
+ python SMSBomber550.py
 
 
  ```  
@@ -69,11 +69,11 @@
 
  ls
 
- cd SMSBomber300
+ cd SMSBomber550
 
  ls
 
- python3 SMSBomber300.py
+ python3 SMSBomber550.py
  ```
 
 
@@ -94,9 +94,7 @@
 
 
 
-## 💻 Расширенное использование
 
-Смотреть [Wiki](https://github.com/Ivan-Hacker-700/SMSBomber300/wiki).
 
 ## 📝 Наши контакты 
 Разработчики:
